@@ -32,11 +32,14 @@ SwedenMap(znorm=TRUE,gif=TRUE,year='2015',value=FALSE, name='Förvarsarbetande',
 
 #### Results in three maps
 One PDF
+
 ![](files/Forvarsarbetande.jpg)
 
 One Interactive html plot
+https://jespermaag.github.io/SwedenMap.html
 
 
 One gif
+
 ![](files/Forvarsarbetande.gif)
 
