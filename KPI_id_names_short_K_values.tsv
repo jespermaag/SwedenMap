@@ -1,0 +1,1102 @@
+N00003	Personalkostnader, kr/inv
+N00005	Utjämningssystemet enl resultaträkning, kr/inv
+N00009	Intäkter kommunen totalt, kr/inv
+N00021	Intäkter egentlig verksamhet, kr/inv
+N00053	Månadsavlönad personal, totalt kommunalt anställda, antal
+N00060	Månadsavlönad personal, kommunalt anställda i ledningsarbete, antal
+N00061	Månadsavlönad personal, kommunalt anställda handläggare, antal
+N00062	Månadsavlönad personal, kommunalt anställda administratörer, antal
+N00063	Månadsavlönad personal, kommunalt anställda i övrigt socialt kurativt arbete, antal
+N00064	Månadsavlönad personal, kommunalt anställda tekniker, antal
+N00065	Månadsavlönad personal, kommunalt anställda i hantverkararbete, antal
+N00066	Månadsavlönad personal, kommunalt anställda i köks- och måltidsarbete, antal
+N00067	Månadsavlönad personal, kommunalt anställda i städ, tvätt och renhållning, antal
+N00068	Månadsavlönad personal, kommunalt anställda inom övrig verksamhet, antal
+N00073	Årsarbetare, kommunalt anställda i ledningsarbete, antal
+N00074	Årsarbetare, kommunalt anställda handläggare, antal
+N00075	Årsarbetare, kommunalt anställda administratörer, antal
+N00076	Årsarbetare, kommunalt anställda i övrigt socialt kurativt arbete, antal
+N00077	Årsarbetare, kommunalt anställda tekniker, antal
+N00078	Årsarbetare, kommunalt anställda i hantverkararbete, antal
+N00079	Årsarbetare, kommunalt anställda i köks- och måltidsarbete, antal
+N00080	Årsarbetare, kommunalt anställda i städ, tvätt och renhållning, antal
+N00081	Årsarbetare, kommunalt anställda inom övrig verksamhet, antal
+N00095	Kostnad egentlig verksamhet, kr/inv
+N00096	Nettokostnad egentlig verksamhet, kr/inv
+N00098	Årsarbetare, totalt kommunalt anställda, antal
+N00106	Månadsavlönad personal, kommunalt anställda i administrationsarbete, antal
+N00107	Månadsavlönad personal, kommunalt anställda i kultur-, turism- och fritidsarbete, antal
+N00108	Månadsavlönad personal, kommunalt anställda i skol- och barnomsorgsarbete, antal
+N00109	Månadsavlönad personal, kommunalt anställda i socialt och kurativt arbete, antal
+N00110	Månadsavlönad personal, kommunalt anställda i teknikarbete, antal
+N00111	Månadsavlönad personal, kommunalt anställda i vård och omsorgsarbete, antal
+N00112	Årsarbetare, kommunalt anställda i administrationsarbete, antal
+N00113	Årsarbetare, kommunalt anställda i kultur-, turism- och fritidsarbete, antal
+N00114	Årsarbetare, kommunalt anställda i skol- och barnomsorgsarbete, antal
+N00115	Årsarbetare, kommunalt anställda i socialt och kurativt arbete, antal
+N00116	Årsarbetare, kommunalt anställda i teknikarbete antal
+N00117	Årsarbetare, kommunalt anställda i vård- och omsorgsarbete, antal
+N00217	Anställda utrikes födda, kommun, balanstal
+N00219	Anställda 55+ år, antal
+N00401	Utsläpp av växthusgaser inom kommunens gränser, ton CO2-ekv/inv
+N00922	Egen företagare, antal
+N00927	Demografisk försörjningskvot, kommun
+N00938	Sjukpenningtalet, dagar/registrerad försäkrad
+N00939	Uttagna dagar med föräldrapenning, antal/mottagare
+N00940	Uttagna dagar med tillfällig föräldrapenning (VAB), antal/mottagare
+N00941	Nyregistrerade företag kommun, antal/1000 invånare
+N00946	Förvärvsarbetande totalt kommun, antal
+N00947	Bor och arbetar i kommunen, antal
+N00948	Utpendlingsomfattning i kommunen, antal
+N00949	Medianlön kvinnor anställda av kommunen, kr
+N00950	Medianlön män anställda av kommunen, kr
+N00951	Lönegap median kvinnor - median män anställda av kommunen, kr
+N00954	Tätortsgrad kommun (senaste mätning)
+N00957	Ohälsotal, dagar
+N00960	Inskrivna i etableringsuppdraget under året , antal
+N00964	Lämnat etableringsuppdraget under året, antal
+N00974	Ohälsotal, 16-19 år kommun, dagar
+N00975	Ohälsotal, 20-29 år kommun, dagar
+N00976	Ohälsotal, 30-39 år kommun, dagar
+N00977	Ohälsotal, 40-49 år kommun, dagar
+N00978	Ohälsotal, 50-59 år kommun, dagar
+N00979	Ohälsotal, 60-64 år kommun, dagar
+N00981	Förvärvsarbetande dagbefolkning kommun, antal
+N01800	Flyttningsnetto, antal
+N01801	Inflyttade till kommunen, antal
+N01802	Utflyttade från kommunen, antal
+N01803	Födelseöverskott
+N01804	Födda i kommunen, antal
+N01805	Döda, antal
+N01806	Immigrationsnetto
+N01807	Immigrerade, antal
+N01808	Emigrerade, antal
+N01817	Invånare 0 år, antal
+N01818	Invånare 1 år, antal
+N01819	Invånare 2 år, antal
+N01820	Invånare 3 år, antal
+N01821	Invånare 4 år, antal
+N01822	Invånare 5 år, antal
+N01823	Invånare 6 år, antal
+N01824	Invånare 7 år, antal
+N01825	Invånare 8 år, antal
+N01826	Invånare 9 år, antal
+N01827	Invånare 10 år, antal
+N01828	Invånare 11 år, antal
+N01829	Invånare 12 år, antal
+N01830	Invånare 13 år, antal
+N01831	Invånare 14 år, antal
+N01832	Invånare 15 år, antal
+N01833	Invånare 16 år, antal
+N01834	Invånare 17 år, antal
+N01835	Invånare 18 år, antal
+N01836	Invånare 19 år, antal
+N01837	Invånare 20 år, antal
+N01838	Invånare 21 år, antal
+N01839	Invånare 22 år, antal
+N01840	Invånare 23 år, antal
+N01841	Invånare 24 år, antal
+N01842	Invånare 25 år, antal
+N01843	Invånare 26 år, antal
+N01844	Invånare 27 år, antal
+N01845	Invånare 28 år, antal
+N01846	Invånare 29 år, antal
+N01847	Invånare 30 år, antal
+N01848	Invånare 31 år, antal
+N01849	Invånare 32 år, antal
+N01850	Invånare 33 år, antal
+N01851	Invånare 34 år, antal
+N01852	Invånare 35 år, antal
+N01853	Invånare 36 år, antal
+N01854	Invånare 37 år, antal
+N01855	Invånare 38 år, antal
+N01856	Invånare 39 år, antal
+N01857	Invånare 40 år, antal
+N01858	Invånare 41 år, antal
+N01859	Invånare 42 år, antal
+N01860	Invånare 43 år, antal
+N01861	Invånare 44 år, antal
+N01862	Invånare 45 år, antal
+N01863	Invånare 46 år, antal
+N01864	Invånare 47 år, antal
+N01865	Invånare 48 år, antal
+N01866	Invånare 49 år, antal
+N01867	Invånare 50 år, antal
+N01868	Invånare 51 år, antal
+N01869	Invånare 52 år, antal
+N01870	Invånare 53 år, antal
+N01871	Invånare 54 år, antal
+N01872	Invånare 55 år, antal
+N01873	Invånare 56 år, antal
+N01874	Invånare 57 år, antal
+N01875	Invånare 58 år, antal
+N01876	Invånare 59 år, antal
+N01877	Invånare 60 år, antal
+N01878	Invånare 61 år, antal
+N01879	Invånare 62 år, antal
+N01880	Invånare 63 år, antal
+N01881	Invånare 64 år, antal
+N01882	Invånare 65 år, antal
+N01883	Invånare 66 år, antal
+N01884	Invånare 67 år, antal
+N01885	Invånare 68 år, antal
+N01886	Invånare 69 år, antal
+N01887	Invånare 70 år, antal
+N01888	Invånare 71 år, antal
+N01889	Invånare 72 år, antal
+N01890	Invånare 73 år, antal
+N01891	Invånare 74 år, antal
+N01892	Invånare 75 år, antal
+N01893	Invånare 76 år, antal
+N01894	Invånare 77 år, antal
+N01895	Invånare 78 år, antal
+N01896	Invånare 79 år, antal
+N01897	Invånare 80 år, antal
+N01898	Invånare 81 år, antal
+N01899	Invånare 82 år, antal
+N01900	Invånare 83 år, antal
+N01901	Invånare 84 år, antal
+N01902	Invånare 85 år, antal
+N01903	Invånare 86 år, antal
+N01904	Invånare 87 år, antal
+N01905	Invånare 88 år, antal
+N01906	Invånare 89 år, antal
+N01907	Invånare 90 år, antal
+N01908	Invånare 91 år, antal
+N01909	Invånare 92 år, antal
+N01910	Invånare 93 år, antal
+N01911	Invånare 94 år, antal
+N01912	Invånare 95 år, antal
+N01913	Invånare 96 år, antal
+N01914	Invånare 97 år, antal
+N01915	Invånare 98 år, antal
+N01916	Invånare 99 år, antal
+N01917	Invånare 100+, antal
+N01918	Invånare 0-64 år, antal
+N01919	Invånare 0-19 år, antal
+N01920	Invånare 0-18 år, antal
+N01921	Invånare 0-12 år, antal
+N01922	Invånare 0-6 år, antal
+N01923	Invånare 6-12 år, antal
+N01924	Invånare 1-12 år, antal
+N01925	Invånare 1-6 år, antal
+N01926	Invånare 1-5 år, antal
+N01927	Invånare 13-18 år, antal
+N01928	Invånare 13-15 år, antal
+N01929	Invånare 16-18 år, antal
+N01930	Invånare 7-15 år, antal
+N01931	Invånare 19-64 år, antal
+N01932	Invånare 40-64 år, antal
+N01933	Invånare 40-59 år, antal
+N01934	Invånare 60-64 år, antal
+N01935	Invånare 20-39 år, antal
+N01936	Invånare 20-22 år, antal
+N01937	Invånare 23-39 år, antal
+N01938	Invånare 65+, antal
+N01939	Invånare 65-84 år, antal
+N01940	Invånare 65-69 år, antal
+N01941	Invånare 70-74 år, antal
+N01942	Invånare 75-79 år, antal
+N01943	Invånare 80-84 år, antal
+N01944	Invånare 85+, antal
+N01945	Invånare 85-89 år, antal
+N01946	Invånare 90-94 år, antal
+N01947	Invånare 95-99 år, antal
+N01948	Invånare 0-20 år, antal
+N01951	Invånare  totalt, antal
+N01952	Invånare 0-5 år, antal
+N01953	Invånare 6-15 år, antal
+N01954	Invånare 16-19 år, antal
+N01955	Invånare 20-64 år, antal
+N01956	Invånare 65-79 år, antal
+N01957	Invånare 80+, antal
+N01964	Inrikes flyttningsnetto
+N01965	Inrikes inflyttade, antal
+N01966	Inrikes utflyttade, antal
+N01977	Invånare 20-24 år, antal
+N01978	Invånare 25-34 år, antal
+N01979	Invånare 35-44 år, antal
+N01980	Invånare 45-54 år, antal
+N01981	Invånare 55-64 år, antal
+N01986	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd, antal
+N01987	Kommunmottagna i flyktingmottagandet efter anvisning med uppehållstillstånd, antal
+N01988	Kommunmottagna i flyktingmottagandet senaste 24 mån med uppehållstillstånd, antal
+N01990	Asylsökande/inskrivna i Migrationsverkets mottagningssystem, antal
+N01991	Asylsökande/inskrivna i Migrationsverkets mottagningssystem, antal i ABO
+N01992	Asylsökande/inskrivna i Migrationsverkets mottagningssystem, antal i EBO
+N01995	Asylsökande/inskrivna i Migrationsverkets mottagningssystem, antal i övrigt boende
+N01996	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd 0-5 år, antal
+N01997	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd 6-15 år, antal
+N01998	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd 16-17 år, antal
+N01999	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd 18-19 år, antal
+N02000	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd 20-64 år, antal
+N02001	Kommunmottagna i flyktingmottagandet under året med uppehållstillstånd 65+ år, antal
+N02002	Anvisade ensamkommande barn, antal
+N02905	Invånare 15-17 år lagförda för brott, antal/1000 inv
+N02907	Framskrivning, förväntat antal invånare om 5 år i kommunen
+N02908	Framskrivning, förväntat antal invånare 0-5 år om 5 år i kommunen
+N02909	Framskrivning, förväntat antal invånare 6-15 år om 5 år i kommunen
+N02910	Framskrivning, förväntat antal invånare 16-19 år om 5 år i kommunen
+N02911	Framskrivning, förväntat antal invånare 20-64 år om 5 år i kommunen
+N02912	Framskrivning, förväntat antal invånare 65+ om 5 år i kommunen
+N02913	Framskrivning, förväntat antal invånare 65-79 år om 5 år i kommunen
+N02914	Framskrivning, förväntat antal invånare 80+ om 5 år i kommunen
+N02924	Framskrivning, förväntad försörjningskvot om 5 år, kommun
+N02927	Inflyttade till kommunen 0-5 år, antal
+N02928	Inflyttade till kommunen 6-19 år, antal
+N02929	Inflyttade till kommunen 20-64 år, antal
+N02930	Inflyttade till kommunen 65-79 år, antal
+N02931	Inflyttade till kommunen 80+ år, antal
+N02932	Utflyttade från kommunen 0-5 år, antal
+N02933	Utflyttade från kommunen 6-19 år, antal
+N02934	Utflyttade från kommunen 20-64 år, antal
+N02935	Utflyttade från kommunen 65-79 år, antal
+N02936	Utflyttade från kommunen 80+ år, antal
+N02937	Invånare per kvadratkilometer kommun, inv./antal
+N02938	Hushåll, antal
+N02939	Ensamstående hushåll, antal
+N02940	Sammanboende hushåll, antal
+N02941	Övriga hushåll, antal
+N02945	Asylsökande/inskrivna i Migrationsverkets mottagningssystem 0-6 år, antal
+N02946	Asylsökande/inskrivna i Migrationsverkets mottagningssystem 7-15 år, antal
+N02947	Asylsökande/inskrivna i Migrationsverkets mottagningssystem 16-17 år, antal
+N02948	Asylsökande/inskrivna i Migrationsverkets mottagningssystem 18-19 år, antal
+N02949	Asylsökande/inskrivna i Migrationsverkets mottagningssystem 20-64 år, antal
+N02950	Asylsökande/inskrivna i Migrationsverkets mottagningssystem 65+ år, antal
+N02951	Födda barn i kommunen, antal per 1000 invånare
+N03003	Rörelsekapital kommun, kr/inv
+N03004	Borgensförbindelser och övriga ansvarsförbindelser kommun, kr/inv
+N03007	Årets resultat kommun, kr/inv
+N03008	Extraordinära poster kommunen, kr/inv
+N03009	Generella statsbidrag och utjämning kommun, kr/inv
+N03010	Skatteintäkter kommun, kr/inv
+N03011	Verksamhetens nettokostnader enligt resultaträkningen kommun, kr/inv
+N03012	Avskrivningar kommun, kr/inv
+N03013	Verksamhetens kostnader totalt, kr/inv
+N03014	Verksamhetens intäkter kommun, kr/inv
+N03015	Årets resultat företagen, kr/inv
+N03017	Resultat före extord poster företag, kr/inv
+N03018	Extraordinära poster företagen, kr/inv
+N03019	Allmän kommunalskatt kommun, kr/inv
+N03020	Skatteavräkning kommun, kr/inv
+N03022	Övriga skatter kommun, kr/inv
+N03026	Övriga bidrag från staten, kr/inv
+N03035	Årets resultat kommunkoncern, kr/inv
+N03036	Eget kapital kommunen, kr/inv
+N03037	Borgensförbindelser och övriga ansvarsförbindelser inkl pensionsförpliktelser och löneskatt, kommun, kr/inv
+N03038	Eget kapital kommunkoncern, kr/inv
+N03039	Tillgångar totalt kommun, kr/inv
+N03040	Skulder totalt kommun, kr/inv
+N03041	Materiella & immateriella anläggningstillgångar kommunen, kr/inv
+N03042	Finansiella anläggningstillgångar kommunen, kr/inv
+N03043	Omsättningstillgångar kommunen, kr/inv
+N03044	Avsättning för pensioner och löneskatt kommun, kr/inv
+N03045	Andra avsättningar än pensioner och löneskatt kommun, kr/inv
+N03046	Långfristiga skulder kommunen, kr/inv
+N03047	Kortfristiga skulder kommunen, kr/inv
+N03048	Pensionsförpl o löneskatt ej redov i balansräkning kommun, kr/inv
+N03049	Tillgångar totalt kommunkoncern, kr/inv
+N03050	Skulder totalt kommunkoncern, kr/inv
+N03051	Materiella & immateriella anläggningstillgångar kommunkoncern, kr/inv
+N03052	Finansiella anläggningstillgångar kommunkoncern, kr/inv
+N03053	Omsättningstillgångar kommunkoncern, kr/inv
+N03054	Avsättningar totalt kommunkoncern, kr/inv
+N03055	Långfristiga skulder kommunkoncern, kr/inv
+N03056	Kortfristiga skulder kommunkoncern, kr/inv
+N03057	Extraordinära poster kommunkoncern, kr/inv
+N03058	Verksamhetens nettokostnader enligt resultaträkningen kommunkoncern, kr/inv
+N03059	Finansnetto kommunkoncern, kr/inv
+N03060	Skatteintäkter och generella statsbidrag kommunkoncern, kr/inv
+N03061	Verksamhetens intäkter kommunkoncern, kr/inv
+N03062	Verksamhetens kostnader kommunkoncern, kr/inv
+N03063	Avskrivningar kommunkoncern, kr/inv
+N03064	Lss-utjämning kommunen, kr/inv
+N03066	Kostnad kommunens verksamhet totalt, kr/inv
+N03067	Nettokostnad kommunens verksamhet totalt, kr/inv
+N03068	Rörelsekapital kommunkoncern, kr/inv
+N03107	Resultat före extraordinära poster kommunen, kr/inv
+N03108	Finansnetto kommunen, kr/inv
+N03111	Resultat före extraordinära poster kommunkoncern, kr/inv
+N03113	Avsättningar kommun, kr/inv
+N03117	Långfristiga fordringar kommun, kr/inv
+N03118	Långfristiga fordringar i kommunens koncernföretag, kr/inv
+N03120	Långfristiga skulder till koncernföretag, kr/inv
+N03121	Borgen o andra förpliktelser gentemot kommunala bostadsföretag, kr/inv
+N03122	Borgen o andra förpliktelser gentemot övriga kommunala företag, kr/inv
+N03123	Räntekostnader för lån kommun, kr/inv
+N03124	Finansiella intäkter kommunkoncern, kr/inv
+N03125	Skulder och avsättningar kommunen, kr/inv
+N03126	Skulder och avsättningar kommunkoncern, kr/inv
+N03132	Nettoinvesteringar, totalt kommun, kr/inv
+N03133	Ränta pensionsskuld kommun, kr/inv
+N03135	Borgen o andra förplikt. gentemot övriga bostadsföretag/föreningar, kr/inv
+N03136	Bidrag till statlig infrastruktur kommun, kr/inv
+N03137	Bidrag till statlig infrastruktur kommunkoncern, kr/inv
+N03138	Finansiella kostnader exkl ränta på pensionsskuld kommun, kr/inv
+N03139	Balanskravsresultat kommun, kr/inv
+N03141	Nettoinvesteringar exkl. finansiella investeringar kommun, kr/inv
+N03143	Resultat efter synnerliga skäl i kommun, kr/inv.
+N03144	Summa lån kommun, kr/inv
+N03148	Investeringsutgifter kommunen totalt, kr/inv
+N03149	Investeringsinkomster kommunen totalt, kr/inv
+N03160	Investeringsutgifter inom vård och omsorg kommun, kr/inv
+N03161	Investeringsutgifter inom utbildningsverksamhet kommun, kr/inv
+N03162	Investeringsutgifter inom infrastruktur, skydd mm kommun, kr/inv
+N03163	Investeringsutgifter inom kultur- och fritidsverksamhet kommun, kr/inv
+N03164	Investeringsutgifter inom politisk verksamhet kommun, kr/inv
+N03165	Investeringsutgifter inom barnomsorg kommun, kr/inv
+N03166	Investeringsutgifter inom näringsliv och bostäder kommun, kr/inv
+N03167	Investeringsutgifter inom särskilt riktade insatser kommun, kr/inv
+N03168	Investeringsutgifter inom energi, vatten och avfall kommun, kr/inv
+N03169	Investeringsutgifter inom kommunikationer kommun, kr/inv
+N05001	Intäkter politisk verksamhet, kr/inv
+N05002	Nettokostnad politisk verksamhet, kr/inv
+N05003	Nettokostnad stöd till politiska partier, kr/inv
+N05004	Nettokostnad revision, kr/inv
+N05005	Nettokostnad övrig politisk verksamhet, kr/inv
+N05006	Kostnad nämnd- och styrelseverksamhet, kr/inv
+N05007	Kostnad stöd till politiska partier, kr/inv
+N05008	Kostnad revision, kr/inv
+N05009	Kostnad övr politisk verksamhet, kr/inv
+N05010	Kostnad politisk verksamhet, kr/inv
+N05011	Nettokostnad nämnd- och styrelseverksamhet, kr/inv
+N05012	Nettoinvesteringar inom politisk verksamhet kommun, kr/inv (-2015)
+N07001	Kostnad fysisk o. teknisk planering, bostadsförbättringar, kr/inv
+N07002	Kostnad konsument och energirådgivning, kr/inv
+N07003	Kostnad turistverksamhet, kr/inv
+N07004	Kostnad gator och vägar samt parkering, kr/inv
+N07005	Kostnad parker, kr/inv
+N07006	Kostnad miljö- och hälsoskydd, myndighetsutövning, kr/inv
+N07007	Kostnad miljö, hälsa och hållbar utveckling, kr/inv
+N07008	Kostnad alkoholtillstånd m.m., kr/inv
+N07009	Kostnad räddningstjänst, kr/inv
+N07010	Kostnad totalförsvar och samhällsskydd, kr/inv
+N07011	Intäkter infrastruktur, skydd mm, kr/inv
+N07012	Intäkter fysisk o. teknisk planering, bostadsförbättringar, kr/inv
+N07013	Intäkter konsument och energirådgivning, kr/inv
+N07014	Intäkter turistverksamhet, kr/inv
+N07015	Intäkter gator och vägar samt parkering, kr/inv
+N07016	Intäkter parker, kr/inv
+N07017	Intäkter miljö- och hälsoskydd, myndighetsutövning, kr/inv
+N07018	Intäkter miljö hälsa och hållbar utveckling, kr/inv
+N07019	Intäkter alkoholtillstånd m.m., kr/inv
+N07020	Intäkter räddningstjänst, kr/inv
+N07021	Intäkter totalförsvar och samhällsskydd, kr/inv
+N07022	Nettokostnad konsument och energirådgivning, kr/inv
+N07023	Nettokostnad turistverksamhet, kr/inv
+N07024	Nettokostnad gator och vägar samt parkering, kr/inv
+N07025	Nettokostnad parker, kr/inv
+N07026	Nettokostnad miljö- och hälsoskydd, myndighetsutövning, kr/inv
+N07027	Nettokostnad miljö hälsa och hållbar utveckling, kr/inv
+N07028	Nettokostnad alkoholtillstånd m.m, kr/inv
+N07029	Nettokostnad totalförsvar och samhällsskydd, kr/inv
+N07030	Månadsavlönad personal, kommunalt anställda teknisk handläggare, antal
+N07031	Månadsavlönad personal, kommunalt anställda ingenjörer, antal
+N07032	Månadsavlönad personal, kommunalt anställda i räddningstjänstarbete, antal
+N07033	Årsarbetare, kommunalt anställda teknisk handläggare, antal
+N07034	Årsarbetare, kommunalt anställda ingenjörer, antal
+N07035	Årsarbetare, kommunalt anställda i räddningstjänstarbete, antal
+N07036	Kostnad infrastruktur, skydd mm, kr/inv
+N07037	Nettokostnad infrastruktur, skydd m.m., kr/inv
+N07038	Nettokostnad fysisk o. teknisk planering, bostadsförbättringar, kr/inv
+N07039	Nettokostnad gator, vägar, parkering samt parker, kr/inv
+N07040	Nettokostnad miljö, hälsa, myndighetsutöv mm, kr/inv
+N07041	Nettokostnad räddningstjänst, kr/inv
+N07042	Nettoinvesteringar inom infrastruktur, skydd mm kommun, kr/inv (-2015)
+N07402	Anmälda brott om grov kvinnofridskränkning i kommunen, antal/100 000 inv
+N07403	Anmälda våldsbrott i kommunen, antal/100 000 inv
+N07802	Bilväg i kommunen, kommunal, meter/inv.
+N07803	Cykelväg i kommunen, kommunal, meter/inv.
+N07804	Sjukhusrapporterade olyckor inom vägtransportområde, antal/100 000 inv.
+N07805	Bilväg i kommunen, total, meter/inv.
+N07806	Cykelväg i kommunen, total, meter/inv.
+N07901	Bostäder med hyresrätter, antal/1000 inv.
+N07902	Bostäder med bostadsrätter, antal/1000 inv.
+N07903	Bostäder med äganderätter, antal/1000 inv.
+N07904	Bostäder där uppgift om upprättelseform saknas, antal/1000 inv.
+N07905	Färdigställda bostäder i småhus under året, antal/1000 inv.
+N07906	Färdigställda bostäder i flerfamiljshus under året, antal/1000 inv.
+N07908	Fastighetspris bostadsrätt, kr/kvm
+N07909	Fastighetspris småhus, kr/kvm
+N07910	Fastighetspris fritidshus, kr/kvm
+N07911	Fritidshus, antal/1000 inv.
+N07912	Genomsnittlig boyta, kvm/inv.
+N07913	Bostäder totalt, antal/1000 inv.
+N09001	Kostnad musik och kulturskola, kr/inv 7-15 år
+N09002	Kostnad allmän fritidsverksamhet, kr/inv
+N09003	Kostnad idrotts- och fritidsanläggningar, kr/inv
+N09004	Kostnad fritidsgårdar, kr/inv
+N09005	Kostnad musik- och kulturskola, kr/inv
+N09006	Kostnad stöd till studieorganistaioner, kr/inv
+N09007	Kostnad allmän kulturverksamhet, kr/inv
+N09008	Kostnad bibliotek, kr/inv
+N09009	Intäkter fritidsverksamhet, kr/inv
+N09010	Intäkter allmän fritidsverksamhet, kr/inv
+N09011	Intäkter fritidsgårdar, kr/inv
+N09012	Intäkter Idrotts- och fritidsanläggningar, kr/inv
+N09013	Intäkter kulturverksamhet, kr/inv
+N09014	Intäkter musik- och kulturskola, kr/inv
+N09015	Intäkter stöd till studieorganisationer, kr/inv
+N09016	Intäkter allmän kulturverksamhet, kr/inv
+N09017	Intäkter bibliotek, kr/inv
+N09018	Nettokostnad fritidsverksamhet, kr/inv
+N09019	Nettokostnad allmän fritidsverksamhet, kr/inv
+N09020	Nettokostnad fritidsgårdar, kr/inv
+N09021	Nettokostnad Idrotts- och fritidsanläggningar, kr/inv
+N09022	Nettokostnad kulturverksamhet, kr/inv
+N09023	Nettokostnad musik- och kulturskola, kr/inv
+N09024	Nettokostnad stöd till studieorganisationer, kr/inv
+N09025	Nettokostnad allmän kulturverksamhet, kr/inv
+N09026	Nettokostnad bibliotek, kr/inv
+N09027	Månadsavlönad personal, kommunalt anställda fritidsledare, antal
+N09028	Månadsavlönad personal, kommunalt anställda bibliotekarier, biblioteksass, antal
+N09029	Månadsavlönad personal, kommunalt anställda i övrig kultur, turism och fritid, antal
+N09030	Månadsavlönad personal, kommunalt anställda inom kultur och fritid, antal
+N09031	Årsarbetare, kommunalt anställda fritidsledare, antal
+N09032	Årsarbetare, kommunalt anställda bibliotekarier, biblioteksass, antal
+N09033	Årsarbetare, kommunalt anställda i övrig kultur och fritid, antal
+N09034	Årsarbetare, kommunalt anställda inom kultur och fritid, antal
+N09035	Anställda vid kommunala bibliotek, antal/10 000 inv
+N09036	Nettoinvesteringar inom kultur- och fritidsverksamhet kommun, kr/inv (-2015)
+N09100	Kostnad kulturverksamhet, kr/inv
+N09102	Kostnad fritidsverksamhet, kr/inv
+N09217	Anställda utrikes födda inom kultur och fritid, balanstal
+N09701	Studieförbundens deltagartimmar inom kultur, antal/inv.
+N09801	Lån från kommunala bibliotek, antal/inv
+N09802	Böcker i kommunala bibliotek, antal/inv
+N09803	Lån av böcker kommunala bibliotek, antal/inv
+N09804	Inköpta böcker till kommunala bibliotek, antal/1000 inv
+N09805	Aktiviteter kommunala bibliotek för barn och unga, antal/1000 inv 0-20 år
+N09806	Kommunala bibliotek, antal/1000 inv.
+N09807	Fysiska besök vid kommunala bibliotek, antal/inv
+N09808	Öppethållande huvudbiblioteket, timmar/vecka
+N09809	Aktiva låntagare i kommunala bibliotek, antal/1000 inv.
+N09810	Lån av E-böcker i kommunala bibliotek, antal/inv.
+N09811	Barnbokslån i kommunala bibliotek, antal/barn 0-17 år
+N09813	Tidningstitlar kommunala bibliotek, antal/1000 inv.
+N09815	Tidskriftstitlar kommunala bibliotek, antal/1000 inv.
+N10001	Kostnad förskola och skolbarnsomsorg, kr/inv
+N10002	Kostnad utbildningsverksamhet, kr/inv
+N10004	Kostnadskvot förskola och skolbarnsomsorg, index
+N10006	Kostnad förskola och skolbarnsomsorg, kr/inv 1-12 år
+N10007	Kostnad förskola och skolbarnsomsorg, kr/inskrivet barn
+N10012	Intäkter förskola och skolbarnsomsorg, kr/inv
+N10013	Intäkter pedagogisk omsorg, kr/inv
+N10014	Intäkter utbildningsverksamhet, kr/inv
+N10015	Nettokostnad förskola och skolbarnsomsorg, kr/inv
+N10016	Nettokostnad pedagog. oms. 1 - 12 år, kr/inv
+N10017	Nettokostnad utbildningsverksamhet, kr/inv
+N10018	Nettokostnad förskola och skolbarnsomsorg riket, kr/inv (-2015)
+N10021	Kostnad pedagogisk omsorg, kr/inv
+N10022	Kostnad övrig barnomsorg, kr/inv
+N10023	Kostnad pedagogisk omsorg, kr/inv 1-12 år
+N10024	Kostnad pedagogisk omsorg, kr/inskrivet barn
+N10025	Månadsavlönad personal, kommunalt anställda förskollärare, antal
+N10026	Månadsavlönad personal, kommunalt anställda i övrigt lärararbete, antal
+N10027	Månadsavlönad personal, kommunalt anställda elevassistenter, antal
+N10028	Månadsavlönad personal, kommunalt anställda inom förskola och skolbarnsomsorg, antal
+N10029	Årsarbetare, kommunalt anställda förskollärare, antal
+N10030	Årsarbetare, kommunalt anställda i övrigt lärararbete, antal
+N10031	Årsarbetare, kommunalt anställda elevassistenter, antal
+N10032	Årsarbetare, kommunalt anställda inom förskola och skolbarnsomsorg, antal
+N10034	Nettoinvesteringar inom barnomsorg kommun, kr/inv (-2015)
+N10035	Nettoinvesteringar inom utbildningsverksamhet kommun, kr/inv (-2015)
+N10100	Kostnad barn och utbildning, kr/inv
+N11002	Intäkter förskola, kr/inv
+N11003	Nettokostnad öppen förskola, kr/inv
+N11004	Nettokostnad förskola, kr/inv
+N11005	Kostnad öppen förskola, kr/inv
+N11006	Kostnad förskola, kr/inv
+N11007	Kostnad förskola, kr/inv 1-5 år
+N11008	Kostnad förskola, kr/inskrivet barn
+N11010	Inskrivna barn/årsarbetare kommunal förskola, antal
+N11011	Inskrivna barn/årsarbetare fristående förskola, antal
+N11012	Månadsavlönad personal, kommunalt anställda barnskötare, antal
+N11013	Månadsavlönad personal, kommunalt anställda dagbarnvårdare, antal
+N11014	Månadsavlönad personal, kommunalt anställda i övrigt skol- och förskolearbete, antal
+N11015	Årsarbetare, kommunalt anställda barnskötare, antal
+N11016	Årsarbetare, kommunalt anställda dagbarnvårdare, antal
+N11017	Årsarbetare, kommunalt anställda i övrigt skol- och förskolearbete, antal
+N11020	Kostnad lokaler i kommunal förskola, kr/inskrivet barn
+N11025	Referenskostnad förskola inkl. öppen förskola, kr/inv
+N11026	Åldersersättning förskola inkl. öppen förskola, kr/inv
+N11027	Behovsnivå förskola inkl. öppen förskola, kr/inv
+N11028	Produktionsförutsättningar inkl. öppen förskola förskola, kr/inv
+N11029	Referenskostnadskvot förskola inkl. öppen förskola, index
+N11030	Referenskostnad förskola inkl. öppen förskola riket, kr/inv
+N11031	Nettokostnad förskola inkl. öppen förskola, kr/inv
+N11032	Kostnad kommunal förskola, kr/inskrivet barn
+N11034	Kostnad personal kommunal förskola, kr/inskrivet barn
+N11035	Kostnad övrigt kommunal förskola, kr/inskrivet barn
+N11102	Inskrivna barn per årsarbetare  i förskolan, antal
+N11217	Anställda utrikes födda inom förskola och skolbarnomsorg, balanstal
+N11804	Elever i förskoleklass, belägen i kommunen, antal
+N11805	Elever i förskoleklass i kommunal skola belägen i kommunen, antal
+N11806	Elever i förskoleklass i fristående grundskola belägen i kommunen, antal
+N13001	Intäkter fritidshem, kr/inv
+N13002	Intäkter öppen fritidsverksamhet, kr/inv
+N13003	Nettokostnad öppen fritidsverksamhet, kr/inv
+N13004	Nettokostnad fritidshem, kr/inv
+N13006	Kostnad fritidshem, kr/inv
+N13007	Kostnad fritidshem, kr/inv 6-12 år
+N13008	Kostnad fritidshem, kr/inskrivet barn
+N13010	Inskrivna barn/årsarbetare kommunala fritidshem, antal
+N13011	Månadsavlönad personal, kommunalt anställda fritidspedagoger, antal
+N13012	Årsarbetare, kommunalt anställda fritidspedagoger, antal
+N13013	Kostnad fritidshem och pedagogisk omsorg, kr/inskrivet barn 6-12 år
+N13014	Inskrivna barn/årsarbetare i fritidshem, antal
+N13021	Referenskostnad fritidshem inkl. öppen fritidsverksamhet, kr/inv
+N13022	Åldersersättning fritidshem inkl. öppen fritidsverksamhet, kr/inv
+N13023	Behovsnivå fritidshem inkl. öppen fritidsverksamhet, kr/inv
+N13024	Produktionsförutsättningar fritidshem inkl. öppen fritidsverksamhet, kr/inv
+N13025	Referenskostnadskvot fritidshem inkl. öppen fritidsverksamhet, index
+N13026	Referenskostnad fritidshem inkl. öppen fritidsverksamhet riket, kr/inv
+N13027	Nettokostnad fritidshem inkl. öppen fritidsverksamhet, kr/inv
+N13028	Kostnad kommunalt fritidshem, kr/inskrivet barn
+N13029	Kostnad lokaler kommunalt fritidshem, kr/inskrivet barn
+N13030	Kostnad personal kommunalt fritidshem, kr/inskrivet barn
+N13031	Kostnad övrigt kommunalt fritidshem, kr/inskrivet barn
+N15003	Referenskostnadskvot grundskola inkl. förskoleklass, index
+N15004	Kostnad grundskola hemkommun, kr/inv
+N15005	Kostnad förskoleklass hemkommun, kr/elev
+N15006	Kostnad grundskola hemkommun, kr/elev
+N15007	Kostnad grundskola hemkommun, kr/inv 7-15 år
+N15008	Kostnad för kommunal grundskola, kr/elev
+N15009	Kostnad för lokaler i kommunal grundskola, kr/elev
+N15010	Övriga kostnader i kommunal grundskola, kr/elev
+N15011	Kostnad för undervisning i kommunal grundskola, kr/elev
+N15012	Kostnad för lärverktyg i kommunal grundskola, kr/elev
+N15013	Kostnad för måltider i kommunal grundskola, kr/elev
+N15014	Kostnad elevhälsa i kommunal grundskola, kr/elev
+N15015	Nettokostnad förskoleklass, kr/inv
+N15016	Nettokostnad grundskola, kr/inv
+N15018	Referenskostnad grundskola inkl. förskoleklass, kr/inv
+N15019	Referenskostnad grundskola inkl. förskoleklass riket, kr/inv
+N15020	Kostnad förskoleklass hemkommun, kr/inv
+N15021	Månadsavlönad personal, kommunalt anställda grundskollärare, antal
+N15022	Månadsavlönad personal, kommunalt anställda inom grundskola inkl förskoleklass, antal
+N15023	Årsarbetare, kommunalt anställda grundskollärare, antal
+N15024	Årsarbetare, kommunalt anställda inom grundskola inkl förskoleklass, antal
+N15025	Kostnad grundskola inkl. förskoleklass hemkommun, kr/inv
+N15026	Kostnad grundskola inkl. förskoleklass hemkommun, kr/inv 6-15 år
+N15027	Kostnad grundskola inkl. förskoleklass hemkommun, kr/elev
+N15028	Nettokostnad grundskola (inkl. förskoleklass), kr/inv
+N15033	Elever/lärare (årsarbetare) i grundskola, lägeskommun, antal
+N15034	Elever/lärare (årsarbetare) i kommunal grundskola, antal
+N15035	Elever/lärare (årsarbetare) i fristående grundskola i kommunen, antal
+N15036	Elever/pedagogisk personal grundskola, lägeskommun, antal
+N15037	Elever/pedagogisk personal grundskola, kommunala skolor
+N15038	Elever/pedagogisk personal grundskola, fristående skolor i kommunen
+N15050	Åldersersättning grundskola inkl. förskoleklass, kr/inv
+N15051	Behovsnivå grundskola inkl. förskoleklass, kr/inv
+N15052	Produktionsförutsättningar grundskola inkl. förskoleklass, kr/inv
+N15053	Kostnad kommunal förskoleklass, kr/elev
+N15055	Kostnad personal kommunal förskoleklass, kr/elev
+N15056	Kostnad övrigt kommunal förskoleklass, kr/elev
+N15100	Elever/lärare (årsarbetare) i kommunal förskoleklass och grundskola, antal
+N15217	Anställda utrikes födda inom grundskola inkl. förskoleklass, balanstal
+N15807	Elever i grundskola belägen i kommunen, antal
+N15808	Lärare i grundskola belägen i kommunen, antal
+N15809	Elever i kommunal grundskola belägen i kommunen, antal
+N15810	Elever i fristående grundskola belägen i kommunen, antal
+N15811	Lärare i kommunal grundskola belägen i kommunen, antal
+N15812	Lärare i fristående grundskola belägen i kommunen, antal
+N17003	Referenskostnadskvot gymnasieskola, index
+N17004	Kostnad gymnasieskola hemkommun, kr/inv
+N17005	Kostnad gymnasieskola hemkommun, kr/elev
+N17006	Kostnad gymnasieskola hemkommun, kr/inv 16-19 år
+N17007	Kostnad för kommunal gymnasieskola, kr/elev
+N17008	Kostnader för lokaler i kommunal gymnasieskola, kr/elev
+N17009	Övriga kostnader i kommunal gymnasieskola, kr/elev
+N17010	Kostnader för undervisning i kommunal gymnasieskola, kr/elev
+N17011	Kostnad för lärverktyg i kommunal gymnasieskola, kr/elev
+N17012	Kostnad för måltider i kommunal gymnasieskola, kr/elev
+N17013	Kostnad elevhälsa i kommunal gymnasieskola, kr/elev
+N17014	Nettokostnad gymnasieskola, kr/inv
+N17016	Referenskostnad gymnasieskola, kr/inv
+N17017	Referenskostnad gymnasieskola riket, kr/inv
+N17018	Månadsavlönad personal, kommunalt anställda gymnasielärare, antal
+N17019	Månadsavlönad personal, kommunalt anställda inom gymnasium/komvux, antal
+N17020	Årsarbetare, kommunalt anställda gymnasielärare, antal
+N17021	Årsarbetare, kommunalt anställda inom gymnasium/komvux, antal
+N17040	Åldersersättning gymnasieskola, kr/inv
+N17041	Behovsnivå gymnasieskola, kr/inv
+N17042	Produktionsförutsättningar gymnasieskola, kr/inv
+N17217	Anställda utrikes födda inom gymnasieskola och komvux, balanstal
+N17800	Elever i gymnasieskola, hemkommun, antal
+N17816	Elever/lärare (heltidstjänst) i gymnasieskola, lägeskommun, antal
+N17817	Elever/lärare (heltidstjänst) i kommunal gymnasieskola, antal.
+N17818	Elever/lärare (heltidstjänst) i fristående gymnasieskola, antal
+N17819	Elever i gymnasieskola, lägeskommun, antal
+N17820	Elever i kommunal gymnasieskola i kommunen, antal
+N17821	Elever i fristående gymnasieskola i kommunen, antal
+N17822	Lärare (heltidstjänst) i gymnasieskola, lägeskommun, antal.
+N17823	Lärare (heltidstjänst) i kommunal gymnasieskola i kommunen, antal
+N17824	Lärare (heltidstjänst) i fristående gymnasieskola i kommunen, antal.
+N18001	Kostnad komvux, kr/heltidsstuderande
+N18002	Nettokostnad grundsärskola, kr/inv
+N18003	Nettokostnad gymnasiesärskola, kr/inv
+N18004	Nettokostnad grundläggande vuxenutbildning, kr/inv
+N18005	Nettokostnad gymnasial vuxenutbildning, kr/inv
+N18006	Nettokostnad särvux, kr/inv
+N18007	Nettokostnad högskoleutbildning, kr/inv
+N18008	Nettokostnad svenska för invandrare, kr/inv
+N18009	Nettokostnad uppdragsutbildning, kr/inv
+N18010	Kostnad grundsärskola, kr/inv
+N18011	Kostnad gymnasiesärskola, kr/inv
+N18012	Kostnad grundläggande vuxenutbildning, kr/inv
+N18013	Kostnad gymnasial vuxenutbildning, kr/inv
+N18014	Kostnad särvux, kr/inv
+N18015	Kostnad högskoleutbildning, kr/inv
+N18016	Kostnad svenska för invandrare, kr/inv
+N18017	Kostnad uppdragsutbildning, kr/inv
+N18018	Nettokostnad exkl. statsbidrag grundsärskola, exkl. skolskjuts, kr/elev
+N18020	Nettokostnad exkl. statsbidrag och försäljning till andra kommuner och landsting grundl. vuxenutbildning, kr/heltids studerande
+N18021	Kostnad grundsärskola, kr/elev
+N18100	Nettokostnad exkl. statsbidrag och försäljning till andra kommuner och landsting gymnas. vuxenutbildning, kr/heltids studerande
+N18101	Nettokostnad exkl. statsbidrag och försäljning till andra kommuner och landsting vuxenutbildning, kr/inv 20-64 år
+N18700	Elever i kommunen som deltagit i utbildning på SFI under året, antal
+N18705	Elever per lärare i SFI, heltidstjänster
+N18801	Elever i SFI-utbildning, antal
+N18803	Elever i grundsärskola, hemkommun, antal
+N18896	Elever i kommunal grundläggande vuxenutbildning hemkommun, antal
+N18897	Elever i kommunal vuxenutbildning hemkommun, antal
+N18898	Elever i kommunal gymnasial vuxenutbildning hemkommun, antal
+N20001	Kostnad äldre och funktionsnedsatta, kr/inv
+N20003	Referenskostnadskvot äldreomsorg, index
+N20007	Kostnad äldreomsorg, kr/inv 65+
+N20010	Intäkter äldre och funktionsnedsatta, kr/inv
+N20011	Nettokostnad äldre och funktionsnedsatta, kr/inv
+N20013	Nettokostnad färdtjänst/riksfärdtjänst, kr/inv
+N20014	Nettokostnad äldreomsorg, kr/inv
+N20016	Referenskostnad äldreomsorg, kr/inv
+N20017	Referenskostnad äldreomsorg riket, kr/inv
+N20018	Personalkostnad äldreomsorg, egen regi, kr/brukare
+N20023	Kostnad vård och omsorg enl. SoL och HSL, kr/inv
+N20024	Kostnad färdtjänst/riksfärdtjänst, kr/inv
+N20027	Lokalkostnader insatser för funktionsnedsatta enl SoL, kr/inv
+N20030	Månadsavlönad personal, kommunalt anställda sjuksköterskor, antal
+N20031	Månadsavlönad personal, kommunalt anställda undersköterskor/skötare, antal
+N20032	Månadsavlönad personal, kommunalt anställda vårdbiträden/vårdare, antal
+N20033	Månadsavlönad personal, kommunalt anställda i övrig vård och omsorg, antal
+N20034	Månadsavlönad personal, kommunalt anställda i rehabilitering, antal
+N20035	Månadsavlönad personal, kommunalt anställda inom vård och omsorg om äldre och funktionshindrade, antal
+N20036	Årsarbetare, kommunalt anställda sjuksköterskor, antal
+N20037	Årsarbetare, kommunalt anställda undersköterskor/ skötare, antal
+N20038	Årsarbetare, kommunalt anställda vårdbiträden/vårdare, antal
+N20039	Årsarbetare, kommunalt anställda i övrig vård och omsorg, antal
+N20040	Årsarbetare, kommunalt anställda i rehabilitering, antal
+N20041	Årsarbetare, kommunalt anställda inom vård och omsorg om äldre och funktionshindrade, antal
+N20043	Kostnad äldreomsorg, kr/inv
+N20044	Nettokostnad äldre och funktionshindrade enl SoL totalt, kr/inv
+N20045	Nettoinvesteringar inom vård och omsorg kommun, kr/inv (-2015)
+N20046	Nettokostnad öppen verksamhet äldreomsorg, kr/inv
+N20047	Kostnad öppen verksamhet äldreomsorg, kr/inv 65+
+N20048	Kostnad äldreomsorg, kr/inv 80+
+N20049	Kostnad öppen verksamhet äldreomsorg, kr/inv 80+
+N20057	Avgiftsintäkter äldreomsorg, kr/inv 65+
+N20058	Bruttokostnad lokaler äldreomsorg, kr/inv 65+
+N20059	Externa lokalintäkter äldreomsorg, kr/inv 65+
+N20060	Kostnad lokaler exkl. externa lokalintäkter äldreomsorg, kr/inv 65+
+N20063	Övriga externa intäkter från andra än kommuner och landsting äldreomsorg, kr/inv 65+
+N20064	Externa intäkter från andra än kommuner och landsting äldreomsorg, kr/inv
+N20065	Externa intäkter från andra än kommuner och landsting äldreomsorg, kr/inv 65+
+N20066	Åldersersättning äldreomsorg, kr/inv
+N20067	Behovsnivå äldreomsorg, kr/inv
+N20068	Produktionsförutsättningar äldreomsorg, kr/inv
+N20217	Anställda utrikes födda inom omsorg om äldre och funktionshindrade, balanstal
+N20218	Årsarbetare, kommunalt anställd vårdpersonal inom vård och omsorg om äldre och funktionshindrade, antal
+N20219	Årsarbetare, kommunalt anställd vårdpersonal inom ordinärt boende för äldre och funktionshindrade, antal
+N20220	Månadsavlönad personal, kommunalt anställd vårdpersonal inom vård och omsorg om äldre och funktionshindrade, antal
+N20221	Månadsavlönad personal, kommunalt anställd vårdpersonal inom ordinärt boende för äldre och funktionshindrade, antal
+N20402	Fallskador bland personer 80+, 3-årsm, antal/1000 inv.
+N21001	Kostnad ordinärt boende äldreomsorg exkl lokalkostnader, kr/inv 65+ (-2013)
+N21002	Kostnad ordinärt boende äldreomsorg exkl lokalkostnader, kr/brukare (-2013)
+N21003	Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 65+
+N21004	Kostnad korttidsvård äldreomsorg, kr/boendedygn
+N21005	Personalkostnad ordinärt boende äldreomsorg, egen regi, kr/brukare (-2013)
+N21008	Kostnad övriga insatser ordinärt boende äldreomsorg, kr/inv
+N21009	Kostnad hemtjänst äldreomsorg, kr/inv 65+
+N21010	Kostnad hemtjänst äldreomsorg, kr/brukare
+N21011	Kostnad korttidsvård äldreomsorg exkl. lokalkostnader, kr/inv 65+ (-2013)
+N21014	Kostnad dagverksamhet ordinärt boende äldreomsorg, kr/inv 65+
+N21015	Nettokostnad ordinärt boende äldreomsorg, kr/inv
+N21016	Nettokostnad korttidsvård äldreomsorg, kr/inv
+N21017	Nettokostnad hemtjänst äldreomsorg, kr/inv
+N21018	Nettokostnad dagverksamhet äldreomsorg, kr/inv
+N21019	Nettokostnad ordinärt boende äldreomsorg övrigt, kr/inv
+N21020	Kostnad ordinärt boende äldreomsorg, kr/inv 65+
+N21021	Kostnad korttidsvård äldreomsorg, kr/inv 65+
+N21022	Kostnad ordinärt boende äldreomsorg, kr/inv 80+
+N21023	Kostnad korttidsvård äldreomsorg, kr/inv 80+
+N21024	Kostnad hemtjänst äldreomsorg, kr/inv 80+
+N21025	Kostnad dagverksamhet äldreomsorg, kr/inv 80+
+N21026	Kostnad ordinärt boende äldreomsorg övrigt, kr/inv 80+
+N21027	Kostnad hemtjänst äldreomsorg, kr/beviljad timme
+N21030	Avgiftsintäkter ordinärt boende äldreomsorg, kr/inv 65+
+N21031	Externa lokalintäkter ordinärt boende äldreomsorg, kr/inv 65+
+N21802	Boendedygn korttidsvård, antal/inv 65+
+N21803	Beviljade/beräknade hemtjänsttimmar per månad och person 65+ med hemtjänst i ordinärt boende, antal
+N21805	Beviljade/beräknade hemtjänsttimmar per månad och person 80+ med hemtjänst i ordinärt boende, antal
+N21807	Brukare 65+ med hemtjänst i ordinärt boende, antal
+N21808	Brukare 65-79 år med hemtjänst i ordinärt boende, antal
+N21809	Brukare 80+ med hemtjänst i ordinärt boende, antal
+N21811	Brukare 65-79 år totalt, med någon typ av insats i hemtjänst ordinärt boende, antal
+N21812	Brukare 65+ totalt, med någon typ av hemtjänstinsats i ordinärt boende, antal
+N21813	Brukare 80+ totalt, med någon typ av insats i hemtjänst ordinärt boende, antal
+N21814	Medelålder för äldre i ordinärt boende med hemtjänst, år
+N23003	Personalkostnad särskilt boende äldreomsorg, egen regi, kr/brukare (-2013)
+N23004	Nettokostnad särskilt boende äldreomsorg, kr/inv
+N23005	Kostnad särskilt boende äldreomsorg, kr/inv 65+
+N23006	Kostnad särskilt boende äldreomsorg, kr/inv 80+
+N23009	Kostnad särskilt boende äldreomsorg, kr/brukare
+N23010	Avgiftsintäkter särskilt boende äldreomsorg, kr/inv 65+
+N23011	Externa lokalintäkter särskilt boende äldreomsorg, kr/inv 65+
+N23200	Årsarbetare, kommunalt anställd vårdpersonal inom särskilt boende för äldre, antal
+N23201	Månadsavlönad personal, kommunalt anställd vårdpersonal inom särskilt boende för äldre, antal
+N23805	Invånare 65+ i särskilt boende äldre, antal
+N23806	Invånare 80+ i särskilt boende äldre, antal
+N23807	Invånare 65-79 år i särskilt boende äldre, antal
+N23809	Medelålder för äldre i särskilt boende, år
+N24001	Nettokostnad öppen verksamhet äldre och funktionshindrade, kr/inv
+N24002	Kostnad öppen verksamhet äldre och funktionshindrade, kr/inv
+N25001	Kostnad insatser för personer med funktionsnedsättning totalt exkl ers från f-kassan, kr/inv 0-64 år
+N25002	Kostnad ordinärt boende insatser för funktionsneds enl. SoL och HSL, exkl. lokalkostnader, kr/inv 0-64 år
+N25003	Kostnad insatser för personer med funktionsnedsättning totalt, kr/inv 0-64 år
+N25004	Kostnad hemtjänst i ordinärt boende funktionsnedsatta. kr/inv
+N25005	Kostnad särskilt boende insatser för funktionsneds enl. SoL/HSL, kr/inv 0-64 år
+N25008	Kostnad ordinärt boende insatser för funktionsneds enl. SoL, kr/inv
+N25009	Kostnad särskilt boende insatser för funktionsneds enl. SoL, kr/inv
+N25010	Kostnad hemtjänst i ordinärt boende funktionsnedsatta. kr/inv 0-64 år
+N25011	Personalkostnad insatser för funktionsnedsatta i ordinärt boende, egen regi, kr/brukare
+N25012	Kostnad särskilt boende insatser för funktionsneds enl. SoL, kr/brukare
+N25014	Personalkostnad insatser för funktionsnedsatta i särskilt boende, egen regi, kr/brukare
+N25016	Kostnad insatser enl. LSS och SFB, kr/inv
+N25017	Kostnad funktionsnedssättning LSS SFB exkl. ersättning från FK, kr/inv
+N25018	Kostnad funktionsnedsättning totalt (SoL, LSS, SFB), minus ersättning från FK enl SFB, kr/inv
+N25019	Kostnad insatser enligt LSS och SFB), exkl ersättning från FK, kr/inv 0-64 år
+N25020	Lokalkostnader insatser enl LSS, kr/inv 0-64 år
+N25021	Kostnad funktionsnedsättning för personer 0-64 år enligt SoL, kr/inv
+N25022	Kostnad funktionsnedsättning totalt (SoL, LSS, SFB), kr/inv
+N25024	Månadsavlönad personal, kommunalt anställda personliga assistenter, antal
+N25025	Årsarbetare, kommunalt anställda personliga assistenter, antal
+N25031	Kostnad boendestöd för personer med funktionsnedsättning enligt SoL, kr/inv
+N25032	Kostnad korttidsboende / -vård för personer med funktionsnedsättning enligt SoL, kr/inv
+N25033	Kostnad övrigt för personer med funktionsnedsättning enligt SoL, kr/inv
+N25034	Nettokostnad funktionsnedsättning totalt (SoL,LSS,SFB), kr/inv
+N25039	Kostnad dagverksamhet för personer med funktionsnedsättning enligt SoL, kr/inv
+N25200	Årsarbetare, kommunalt anställd vårdpersonal inom särskilt boende för funktionshindrade samt LSS, antal
+N25201	Månadsavlönad personal, kommunalt anställd vårdpersonal inom särskilt boende för funktionshindrade samt LSS, antal
+N26001	Lokalkostnader insatser för funktionsnedsatta enl SoL, kr/inv 0-64 år
+N26003	Kostnad hemtjänst i ordinärt boende funktionsnedsatta, kr/brukare
+N26004	Personalkostnad insatser för funktionsnedsatta enl SoL/HSL, egen regi, kr/brukare
+N26800	Beviljade/beräknade hemtjänsttimmar per månad och person 0-64 med hemtjänst i ordinärt boende, antal
+N26802	Personer 0-64 år i ordinärt boende med hemtjänst enligt SoL och HSL, antal
+N28001	Kostnad insatser enligt LSS och SFB, exkl ersättning från FK och lokalkostnader, kr/inv 0-64 år
+N28002	Kostnad exkl lokalkostnad boende enl LSS kr/inv 0-64 år
+N28003	Kostnad exkl lokalkostnader boende enligt LSS kr/brukare
+N28004	Kostnad daglig verksamhet, enl LSS kr/inv 0-64 år
+N28005	Kostnad övriga insatser enl LSS kr/inv 0-64 år
+N28006	Kostnad personlig assistans enl. LSS/SFB exkl. ersättning från Försäkringskassan, kr/inv 0-64 år
+N28007	Kostnad insatser enligt LSS och SFB, minus ersättning från FK , kr/inv
+N28008	Kostnad personlig assistans enl. LSS/SFB minus ersättning från Försäkringskassan, kr/inv
+N28009	Kostnad daglig verksamhet, enl LSS kr/inv
+N28010	Kommunens ersättning från Försäkringskassan för personlig assistans enligt SFB, kr/inv
+N28011	Kostnad övriga insatser enl LSS kr/inv
+N28012	Kostnad  boende enl LSS kr/inv
+N28013	Kostnad  boende enl LSS kr/brukare
+N28014	Kostnad boende exkl. externa intäkter för lokalhyror enligt LSS kr/brukare
+N28015	Kostnad daglig verksamhet enl. LSS, kr/brukare
+N28016	Nettokostnad för insatser enl LSS kr/inv
+N28019	Kostnad boende exkl. externa intäkter för lokalhyror enligt LSS kr/0-64 år
+N28020	Kommunens ersättning till Försäkringskassan för personlig assistent enligt  SFB, kr/inv
+N28024	Referenskostnadskvot LSS, index
+N28025	Referenskostnad LSS riket, kr/inv
+N28026	Referenskostnad LSS, kr/inv
+N28801	Personer med boende enligt LSS, antal
+N28891	Invånare 0-22 år med insatser enligt LSS, antal/10 000 inv 0-22 år
+N29001	Kostnad öppen verksamhet insatser för funktionsneds., kr/inv 0-64 år
+N29002	Kostnad öppen verksamhet insatser för funktionsneds, kr/inv
+N30003	Referenskostnadskvot individ- och familjeomsorg, index
+N30004	Intäkter individ- och familjeomsorg, kr/inv
+N30005	Nettokostnad individ- och familjeomsorg, kr/inv
+N30006	Nettokostnad individ- och familjeomsorg riket, kr/inv
+N30007	Referenskostnad individ- och familjeomsorg, kr/inv
+N30008	Referenskostnad individ- och familjeomsorg riket, kr/inv
+N30009	Månadsavlönad personal, kommunalt anställda socialsekreterare m fl, antal
+N30010	Månadsavlönad personal, kommunalt anställda inom individ- och familjeomsorg, antal
+N30011	Årsarbetare, kommunalt anställda socialsekreterare m fl, antal
+N30012	Årsarbetare, kommunalt anställda inom individ- och familjeomsorg, antal
+N30101	Kostnad individ- och familjeomsorg, kr/inv
+N30217	Anställda utrikes födda inom individ- och familjeomsorg, balanstal
+N31001	Kostnad ekonomiskt bistånd, kr/inv
+N31002	Kostnad utbetalt ekonomiskt bistånd, kr/inv
+N31003	Kostnad övrigt ekonomiskt bistånd (ej utbet ek bistånd), kr/inv
+N31004	Utbetalt ekonomiskt bistånd (enl Sos exkl flyktinghushåll), kr/inv
+N31005	Skillnad nyckeltal enl Sos och RS, kr/inv (-2010)
+N31006	Utbetalt ekonomiskt bistånd per hushåll (exkl flyktinghushåll), kr/hushåll (-2015)
+N31007	Intäkter ekonomiskt bistånd, kr/inv
+N31008	Nettokostnad ekonomiskt bistånd, kr/inv
+N31100	Kostnad ekonomiskt bistånd, kr/inv 0-64 år
+N31800	Bidragshushåll ekonomiskt bistånd, antal/1000 inv
+N31805	Genomsnittlig månadsutbetalning (enl SoS) till hushåll exkl. flyktinghushåll, kr
+N31806	Genomsnittlig månadsutbetalning till flyktinghushåll, kr (-2015)
+N31811	Genomsnittlig biståndsperiod, månader per år
+N33001	Kostnad barn och ungdomsvård, kr/inv
+N33002	Kostnad institutionsvård för barn och unga kr/inv 0-20 år
+N33004	Kostnad familjehemsvård barn och unga, kr/inv 0-20 år
+N33007	Kostnad institutionsvård barn och unga, kr/inv
+N33008	Kostnad familjehemsvård barn och unga, kr/inv
+N33009	Kostnad öppna insatser barn och unga, kr/inv
+N33010	Kostnad öppna insatser barn och unga, individuellt behovsprövad, kr/inv
+N33011	Kostnad öppna insatser barn och unga övr. öppna ins. kr/inv
+N33012	Intäkter barn och ungdomsvård, kr/inv
+N33016	Nettokostnad barn och ungdomsvård, kr/inv
+N33021	Kostnad öppna insatser barn och unga, kr/inv 0-20 år
+N33022	Kostnad familjehems- och institutionsvård barn och unga, kr/inv 0-20 år
+N33100	Kostnad/vårddygn för institutionsvård av barn och unga 0-20 år, kr (genomsnitt)
+N33101	Kostnad/vårddygn för familjehemsvård av barn och unga 0-20 år, kr (genomsnitt)
+N33800	Vårddygn i institutionsvård, antal/inv 0-20 år
+N33801	Vårddygn i familjehem, antal/inv 0-20 år
+N33808	Invånare 0-20 år placerade på institution eller i familjehem, antal/1000 inv 0-20 år
+N35001	Kostnad missbrukarvård vuxna, kr/inv
+N35002	Kostnad institutionsvård vuxna missbrukare, kr/inv 21-64 år
+N35003	Kostnad familjehemsvård vuxna missbrukare, kr/inv 21-64 år
+N35004	Kostnad familjehemsvård vuxna missbrukare,  kr/vårddygn
+N35006	Kostnad öppna insatser, bistånd som avser boende för vuxna missbrukare, kr/inv 21-64 år
+N35007	Kostnad öppna insatser, individuellt behovsprövade avs. vuxna missbrukare, kr/inv 21-64 år
+N35008	Kostnad öppna insatser, övriga avs. vuxna missbrukare. kr/inv 21-64 år
+N35009	Kostnad institutionsvård vuxna missbrukare, kr/inv
+N35010	Kostnad familjehemsvård vuxna missbrukare, kr/inv
+N35011	Kostnad öppna insatser vuxna missbrukare, kr/inv
+N35012	Kostnad öppna insatser, bistånd som avser boende för vuxna missbrukare, kr/inv
+N35013	Kostnad öppna insatser, individuellt behovsprövade avs. vuxna missbrukare, kr/inv
+N35014	Kostnad öppna insatser, övriga avs. vuxna missbrukare, kr/inv
+N35015	Intäkter missbrukarvård vuxna, kr/inv
+N35019	Nettokostnad missbrukarvård totalt för vuxna, kr/inv
+N35023	Kostnad öppna insatser, bistånd som avser boende för vuxna missbrukare, kr/boendedygn
+N35024	Kostnad heldygnsvård vuxna med missbruksproblem kr/inv 21-64 år
+N35025	Kostnad institutionsvård vuxna missbrukare, kr/vårddygn
+N35100	Kostnad öppna insatser vuxna missbrukare, kr/inv 21-64 år
+N35800	Vårddygn i familjehem vuxna missbrukare, antal/inv 21-64 år
+N35801	Boendedygn i bistånd som avser boende för vuxna missbrukare, antal/inv 21-64 år
+N35804	Vårddygn i institutionsvård vuxna missbrukare, antal/inv 21-64 år
+N37001	Kostnad övrig vuxenvård, kr/inv
+N37002	Kostnad familjerätt, kr/inv
+N37003	Intäkter övrig vuxenvård, kr/inv
+N37004	Intäkter familjerätt, kr/inv
+N37005	Nettokostnad övrig vuxenvård, kr/inv
+N37006	Nettokostnad familjerätt, kr/inv
+N40001	Kostnad särskilt riktade insatser, kr/inv
+N40002	Intäkter arbetsmarknadsåtgärder, kr/inv
+N40003	Kostnad näringslivsfrämjande åtgärder, kr/inv
+N40004	Intäkter näringslivsfrämjande åtgärder, kr/inv
+N40005	Intäkter särskilt riktade insatser, kr/inv
+N40006	Nettokostnad särskilt riktade insatser, kr/inv
+N40007	Kostnad flyktingmottagande, kr/inv
+N40008	Kostnad arbetsmarknadsåtgärder, kr/inv
+N40009	Nettokostnad näringslivsfrämjande åtgärder, kr/inv
+N40010	Nettokostnad flyktingmottagande, kr/inv
+N40011	Nettokostnad arbetsmarknadsåtgärder, kr/inv
+N40012	Nettoinvesteringar inom särskilt riktade insatser kommun, kr/inv (-2015)
+N45001	Intäkter affärsverksamhet, kr/inv
+N45002	Nettokostnad näringsliv och bostäder, kr/inv
+N45003	Nettokostnad kommunikationer, kr/inv
+N45004	Nettokostnad energi, vatten och avfall, kr/inv
+N45005	Nettokostnad arbetsområden och lokaler, kr/inv
+N45006	Nettokostnad hamnverksamhet, kr/inv
+N45007	Nettokostnad kommersiell verksamhet, kr/inv
+N45008	Nettokostnad bostadsverksamhet, kr/inv
+N45009	Nettokostnad flygtrafik, kr/inv
+N45010	Nettokostnad buss, bil och spårbunden trafik, kr/inv
+N45011	Nettokostnad sjötrafik, kr/inv
+N45012	Nettokostnad elförsörjning + gasförsörjning, kr/inv
+N45013	Nettokostnad fjärrvärmeförsörjning, kr/inv
+N45014	Nettokostnad vattenförsörjning och avloppshantering, kr/inv
+N45015	Nettokostnad avfallshantering, kr/inv
+N45016	Kostnad näringsliv och bostäder, kr/inv
+N45017	Kostnad kommunikationer, kr/inv
+N45018	Kostnad energi, vatten och avfall, kr/inv
+N45019	Kostnad arbetsområden och lokaler, kr/inv
+N45020	Kostnad hamnverksamhet, kr/inv
+N45021	Kostnad kommersiell verksamhet, kr/inv
+N45022	Kostnad bostadsverksamhet, kr/inv
+N45023	Kostnad flygtrafik, kr/inv
+N45024	Kostnad buss, bil och spårbunden trafik, kr/inv
+N45025	Kostnad sjötrafik, kr/inv
+N45026	Kostnad elförsörjning + gasförsörjning, kr/inv
+N45027	Kostnad fjärrvärmeförsörjning, kr/inv
+N45028	Kostnad vattenförsörjning och avloppshantering, kr/inv
+N45029	Kostnad avfallshantering, kr/inv
+N45030	Kostnad affärsverksamhet, kr/inv
+N45031	Nettokostnad affärsverksamhet, kr/inv
+N45032	Nettoinvesteringar inom näringsliv och bostäder kommun, kr/inv (-2015)
+N45033	Nettoinvesteringar inom kommunikationer kommun, kr/inv (-2015)
+N45034	Nettoinvesteringar inom energi, vatten och avfall kommun, kr/inv (-2015)
+N45038	Investeringsutgifter el- och gasförsörjning, kr/inv
+N45039	Investeringsutgifter fjärrvärmeförsörjning, kr/inv
+N45040	Investeringsutgifter vattenförsörjning och avloppshantering, kr/inv
+N45041	Investeringsutgifter avfallshantering, kr/inv
+N45905	Slutanvändning av energi totalt inom den geografiska kommunen, MWh/inv
+N45906	Slutanvändning av el inom den geografiska kommunen, MWh/inv
+N45907	Slutanvändning av fjärrvärme inom den geografiska kommunen, MWh/inv
+N45908	Slutanvändning av förnybara bränsletyper inom den geografiska kommunen, MWh/inv
+N45909	Slutanvändning av icke-förnybara bränsletyper inom den geografiska kommunen, MWh/inv
+N45910	Slutanvändning energi inom jordbruk, skogsbruk och fiske inom den geografiska kommunen, MWh/inv
+N45911	Slutanvändning energi inom industri och byggverksamhet inom den geografiska kommunen, MWh/inv
+N45912	Slutanvändning energi inom offentlig verksamhet inom den geografiska kommunen, MWh/inv
+N45913	Slutanvändning energi inom transporter inom den geografiska kommunen, MWh/inv
+N45914	Slutanvändning energi inom övriga tjänster inom den geografiska kommunen, MWh/inv
+N45915	Slutanvändning energi bland småhus inom den geografiska kommunen, MWh/inv
+N45916	Slutanvändning energi bland flerbostadshus inom den geografiska kommunen, MWh/inv
+N45917	Slutanvändning energi bland fritidshus inom den geografiska kommunen, MWh/inv
+N45920	Slutanvändning energi inom hushåll inom den geografiska kommunen, MWh/inv
+U00441	Fysisk tillgänglighet - Kommunhuset är fysiskt tillgängligt, poäng (max=3)
+U00471	Fysisk tillgänglighet - använder FN:s konvention, poäng (max=3)
+U00472	Fysisk tillgänglighet - mätbara och förankrade mål, poäng (max=3)
+U00473	Fysisk tillgänglighet - struktur för samverkan mellan förvaltningar, poäng (max=3)
+U00474	Fysisk tillgänglighet - handlingsplan med aktiviteter, poäng (max=3)
+U00475	Fysisk tillgänglighet - krav vid upphandling av verksamheter, poäng (max=3)
+U00476	Fysisk tillgänglighet - tillsyn enligt PBL, poäng (max=3)
+U00477	Fysisk tillgänglighet - använder möjligheten till sanktioner/viten, poäng (max=3)
+U00478	Fysisk tillgänglighet - arbetar för att öka kompetensen, poäng (max=3)
+U00479	Fysisk tillgänglighet - åtgärdar brister utifrån inventering, poäng (max=3)
+U00480	Fysisk tillgänglighet - tillgänglighetsinventering, poäng (max=3)
+U00482	Fysisk tillgänglighet - arbetsmiljöarbete, poäng (max=3)
+U00483	Fysisk tillgänglighet - samråd med funktionshindersorganisationer, poäng (max=3)
+U00484	Fysisk tillgänglighet - rutiner för utredning av invånares synpunkter, poäng (max=3)
+U00804	Deltagande kommuner i KKiK, antal
+U00901	Nyregistrerade företag helårsprognos utifrån första halvåret, antal/1000 invånare
+U00915	Verkställda vräkningar/avhysningar som berör barn, antal barn/100 000 inv.
+U00958	Verkställda vräkningar (avhysningar), antal/100 000 inv.
+U00959	Verkställda vräkningar som berör barn, antal barn
+U00960	Verkställda vräkningar (avhysningar), antal
+U01416	Regelbunden behandling med sömn-/lugnande medel kommun, antal personer/1000 inv
+U07440	Larmbehandlingstid för räddningstjänst, mediantid i minuter.
+U07441	Larmbehandlingstid för ambulans, mediantid i minuter
+U07442	Responstid (tid från 112-samtal till första resurs är på plats) för räddningstjänst, mediantid i minuter
+U07443	Responstid (tid från 112-samtal till första resurs är på plats) för ambulans, mediantid i minuter.
+U07446	Företagsklimat enl. ÖJ (Insikt) - Brandskydd - Totalt, NKI
+U07447	Företagsklimat enl. ÖJ (Insikt) - Bygglov - Totalt, NKI
+U07448	Företagsklimat enl. ÖJ (Insikt) - Markupplåtelse - Totalt, NKI
+U07449	Företagsklimat enl. ÖJ (Insikt) - Miljö- och hälsoskydd - Totalt, NKI
+U07450	Företagsklimat enl. ÖJ (Insikt) - Serveringstillstånd - Totalt, NKI
+U07451	Företagsklimat enl. ÖJ (Insikt) - Totalt, NKI
+U07455	Företagsklimat enl. ÖJ (Insikt) - Livsmedelskontroll - Totalt, NKI
+U07470	Fysisk tillgänglighet - mål för ökad tillgänglighet vid busshållsplatser, poäng (max=3)
+U07471	Fysisk tillgänglighet - yttra sig vid tillståndsgivande, poäng (max=3)
+U07472	Fysisk tillgänglighet - plan- och bygglovsprocesser, poäng (max=3)
+U07474	Fysisk tillgänglighet - sakkunnig kompetens vid nybyggnation/bygglov, poäng (max=3)
+U07475	Fysisk tillgänglighet - åtgärdar brister vid busshållsplatser, poäng (max=3)
+U07476	Fysisk tillgänglighet - tillgängliga busshållsplatser, poäng (max=3)
+U07477	Fysisk tillgänglighet - framkomlighet busshållsplatser vid snöröjning, poäng (max=3)
+U07508	Företagsklimat enl. ÖJ (Insikt) - Totalt - Tillgänglighet, NKI
+U07509	Företagsklimat enl. ÖJ (Insikt) - Totalt - Information, NKI
+U07510	Företagsklimat enl. ÖJ (Insikt) - Totalt - Bemötande, NKI
+U07511	Företagsklimat enl. ÖJ (Insikt) - Totalt - Kompetens, NKI
+U07512	Företagsklimat enl. ÖJ (Insikt) - Totalt - Rättssäkerhet, NKI
+U07513	Företagsklimat enl. ÖJ (Insikt) - Totalt - Effektivitet, NKI
+U07801	Insamlat hushållsavfall kommun, kg/inv
+U09411	Tillgänglighet kultur - använder FN:s konvention, poäng (max=3)
+U09412	Tillgänglighet kultur - mätbara och förankrade mål, poäng (max=3)
+U09413	Tillgänglighet kultur - strategier i styrdokument, poäng (max=3)
+U09414	Tillgänglighet kultur - tillgänglighetskrav vid bidragsgivning till föreningar, poäng (max=3)
+U09415	Tillgänglighet kultur - delar ut medel till föreningar för ökad tillgänglighet, poäng (max=3)
+U09416	Tillgänglighet kultur - arbetar för att öka kompetensen, poäng (max=3)
+U09417	Tillgänglighet kultur - information om aktiviteter för personer med funktionsnedsättning, poäng (max=3)
+U09418	Tillgänglighet kultur - samverkan med kulturföreningar, poäng (max=3)
+U09420	Tillgänglighet kultur - åtgärdar brister utifrån inventering, poäng (max=3)
+U09421	Tillgänglighet kultur - tillgängliga lokaler/anläggningar, poäng (max=3)
+U09422	Tillgänglighet kultur - samråd med funktionshindersorganisationer, poäng (max=3)
+U09423	Tillgänglighet kultur - följer upp invånares behov, poäng (max=3)
+U09430	Tillgänglighet idrott - använder FN:s konvention, poäng (max=3)
+U09431	Tillgänglighet idrott - mätbara och förankrade mål, poäng (max=3)
+U09432	Tillgänglighet idrott - strategier i styrdokument, poäng (max=3)
+U09433	Tillgänglighet idrott - tillgänglighetskrav vid bidragsgivning till föreningar, poäng (max=3)
+U09434	Tillgänglighet idrott - delar ut medel till föreningar för ökad tillgänglighet, poäng (max=3)
+U09435	Tillgänglighet idrott - arbetar för att öka kompetensen, poäng (max=3)
+U09436	Tillgänglighet idrott - information  om aktiviteter för personer med funktionsnedsättning, poäng (max=3)
+U09437	Tillgänglighet idrott - samverkan med idrottsföreningar, poäng (max=3)
+U09438	Tillgänglighet idrott - samverkan inom kommunen, poäng (max=3)
+U09439	Tillgänglighet idrott - åtgärdar brister utifrån inventering, poäng (max=3)
+U09440	Tillgänglighet idrott - tillgängliga idrottsanläggningar, poäng (max=3)
+U09441	Tillgänglighet idrott - samråd med funktionshindersorganisationer, poäng (max=3)
+U09442	Tillgänglighet idrott - följer upp invånares behov, poäng (max=3)
+U09452	Tillgänglighet kultur - samverkan inom kommunen, poäng (max=3)
+U09800	Deltagartillfällen i idrottsföreningar, antal/inv 7-20 år
+U09801	Deltagartillfällen i idrottsföreningar, antal/inv 7-12 år
+U09802	Deltagartillfällen i idrottsföreningar, antal/inv 13-16 år
+U09803	Deltagartillfällen i idrottsföreningar, antal/inv 17-20 år
+U09804	Idrottsföreningar med LOK-stöd, antal/10 000 inv
+U09808	Deltagartillfällen i idrottsföreningar, antal/inv 13-20 år
+U09811	Kommunalt bidrag till idrottsföreningar, kr/inv.
+U09812	Utbetalt LOK-Stöd till idrottsföreningar, kr/inv.
+U09813	Deltagartillfällen i idrottsföreningar, antal/inv 21-25 år
+U15013	Nettokostnad grundskola, kr/elev
+U15015	Nettokostnad skolskjuts grundskola, kr/elev
+U15016	Standardkostnad grundskola, kr/elev
+U15406	Kostnad per betygspoäng i åk. 9 i kommunala skolor, kr/betygspoäng
+U15521	Tillgänglighet grundskola - används FN:s konvention, poäng (max=3)
+U15522	Tillgänglighet grundskola - strategier i styrdokument, poäng (max=3)
+U15523	Tillgänglighet grundskola - mätbara och förankrade mål, poäng (max=3)
+U15524	Tillgänglighet grundskola - avsätter medel, poäng (max=3)
+U15525	Tillgänglighet grundskola - krav i upphandlingar, poäng (max=3)
+U15526	Tillgänglighet grundskola - arbetar för funktionshindersperspektiv i systematiskt kvalitetsarbete, poäng (max=3)
+U15527	Tillgänglighet grundskola - arbetar för funktionshindersperspektiv i systematiskt kvalitetsarbete, poäng (max=3)
+U15528	Tillgänglighet grundskola - arbetar för att öka kompetens, poäng (max=3)
+U15529	Tillgänglighet grundskola - samverkan med andra aktörer, poäng (max=3)
+U15530	Tillgänglighet grundskola - skolskjuts till andra grundskolor än den närmsta, poäng (max=3)
+U15531	Tillgänglighet grundskola - åtgärdar brister utifrån inventering, poäng (max=3)
+U15532	Tillgänglighet grundskola - fysiskt tillgängliga grundskoleenheter, poäng (max=3)
+U15533	Tillgänglighet grundskola - tillgängliga digitala lär- och dialogplattformar, poäng (max=3)
+U15534	Tillgänglighet grundskola - information om resurser/stöd, poäng (max=3)
+U15535	Tillgänglighet grundskola - samråd med funktionshindersorganisationer, poäng (max=3)
+U15536	Tillgänglighet grundskola - fångar elevers/vårdnadshavares uppfattningar, poäng (max=3)
+U17023	Nettokostnad gymnasieskola, kr/elev
+U17025	Kostnad dagliga resor & inackordering gymnasieskola, kr/elev
+U17026	Standardkostnad gymnasieskola, kr/elev
+U17445	Betygspoäng efter avslutad gymnasieutbildning, kommunala skolor modellberäknat värde
+U17446	Betygspoäng efter avslutad gymnasieutbildning, kommunala skolor, avvikelse från modellberäknat värde
+U17808	Kommunen ingår i gymnasieförbund, (Ja=1, Nej=0)
+U21423	Brukarbedömning hemtjänst äldreomsorg - förändring av självskattad hälsa, index
+U23701	Medianvårdtid i särskilt boende äldreomsorg, antal dagar
+U30424	Information på kommunens webbplats på lättläst svenska för hemlöshet, (Ja=1, Nej=0)
+U30425	Talad information på kommunens webbplats för hemlöshet, (Ja=1, Nej=0)
+U30428	Aktuell övergripande plan för att motverka hemlöshet, (Ja=1, Nej=0)
+U30429	Aktuell rutin för samordning mellan hemlöshet och ekonomiskt bistånd, (Ja=1, Nej=0)
+U30430	Aktuell rutin för samordning mellan hemlöshet och missbruk, (Ja=1, Nej=0)
+U30431	Aktuell rutin för samordning mellan hemlöshet och socialpsykiatri, (Ja=1, Nej=0)
+U30432	Aktuell rutin för samordning mellan hemlöshet och barn och unga, (Ja=1, Nej=0)
+U30433	Aktuell rutin för samordning mellan hemlöshet och våld i nära relationer, (Ja=1, Nej=0)
+U30434	Aktuell rutin för samordning mellan hemlöshet och LSS, (Ja=1, Nej=0)
+U30435	Aktuell rutin för samordning mellan hemlöshet och äldreomsorg, (Ja=1, Nej=0)
+U30436	Aktuell överenskommelse om samverkan mellan hemlöshet och frivilligorganisationer, (Ja=1, Nej=0)
+U30437	Aktuell överenskommelse på övergripande nivå mellan hemlöshet och bostadsföretag/hyresvärdar, (Ja=2, Ja=, med vissa=1, Nej=0)
+U30438	Aktuell överenskommelse i enskilda ärenden mellan hemlöshet och bostadsföretag/hyresvärdar, (Ja=2, Ja=, med vissa=1, Nej=0)
+U30439	Aktuell samlad plan för personalens kompetensutveckling inom hemlöshet, (Ja=1, Nej=0)
+U30440	Aktuell rutin vid indikation på att en vuxen utsatts för våld inom hemlöshet, (Ja=1, Nej=0)
+U30441	Standardiserade bedömningsmetoder AUDIT/DUDIT inom hemlöshet, (Ja=2, Delvis=1, Nej=0)
+U30442	Aktuell rutin för att förhindra att barnfamiljer vräks inom hemlöshet, (Ja=1, Nej=0)
+U30443	Rutin för information om samordnad individuell plan inom hemlöshet, (Ja=1, Nej=0)
+U30444	Rutin för information om kopia på journal/akt inom hemlöshet, (Ja=1, Nej=0)
+U30445	Aktuell rutin för att inte röja skyddade personuppgifter inom hemlöshet, (Ja=1, Nej=0)
+U30446	Bostadsmarknadsläge i kommunen, (Överskott=2, Balans=1, Underskott=0)
+U31001	Utbetalt ekonomiskt bistånd (enl SoS), kr/inv
+U31900	Socioekonomisk sorteringsnyckel, (skala 1-8, 1=låg risk, 8 = hög risk).
+U40401	Företagsklimat enl. Svenskt Näringslivs enkätdel, ranking
+U40402	Företagsklimat enl. Svenskt Näringsliv, ranking
+U40430	Tillgänglighet arbetsmarknad - använder FN:s konvention, poäng (max=3)
+U40431	Tillgänglighet arbetsmarknad - mål för lika villkor i arbetslivet, poäng (max=3)
+U40432	Tillgänglighet arbetsmarknad - beslut på central nivå om ökade anställningsmöjligheter, poäng (max=3)
+U40433	Tillgänglighet arbetsmarknad - arbetsmiljöpolicy inkluderar tillgänglighet, poäng (max=3)
+U40434	Tillgänglighet arbetsmarknad - riktade projekt, poäng (max=3)
+U40435	Tillgänglighet arbetsmarknad - krav i upphandlingar, poäng (max=3)
+U40436	Tillgänglighet arbetsmarknad - arbetar för fler personer med funktionsnedsättning i praktik, poäng (max=3)
+U40437	Tillgänglighet arbetsmarknad - anställning efter praktik, poäng (max=3)
+U40438	Tillgänglighet arbetsmarknad - prioriterar unga personer med funktionsnedsättning vid fördelning av sommarjobb, poäng (max=3)
+U40439	Tillgänglighet arbetsmarknad - kompetenshöjande insatser, poäng (max=3)
+U40440	Tillgänglighet arbetsmarknad - samverkan med relevanta aktörer, poäng (max=3)
+U40441	Tillgänglighet arbetsmarknad - säkerställer tillgänglighet vid anställningsintervjuer, poäng (max=3)
+U40442	Tillgänglighet arbetsmarknad - tillgängliga digitala ansökningsformulär, poäng (max=3)
+U40443	Tillgänglighet arbetsmarknad - åtgärder för ökad tillgänglighet i ordinarie verksamheter, poäng (max=3)
+U40444	Tillgänglighet arbetsmarknad - samråd med funktionshindersorganisationer, poäng (max=3)
