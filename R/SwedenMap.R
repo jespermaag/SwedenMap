@@ -13,14 +13,11 @@
 #' @param outfile Writes output to files. Chose FALSE for Rmarkdown document. Default is TRUE.
 
 
-#' @keywords cats
-#' @export
-#' @examples
-#' cat_function()
+
 #SwedenMap(znorm=TRUE,gif=TRUE,year='2015',value=FALSE, name='Förvarsarbetande',kpiID='N00908,N00909,N00910,N00911,N00912,N00913')
 SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm=FALSE,outfile=TRUE) {
         
-
+        localenv <- environment()
         suppressWarnings(suppressMessages(library(ggplot2)))
         suppressWarnings(suppressMessages(library(swemaps)))
         suppressWarnings(suppressMessages(library(rkolada)))
@@ -74,12 +71,12 @@ SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm
         class(kpi.ID)
         
         if (gif){
-                suppressWarnings(suppressMessages(x <- a$values(kpi.ID)))
-                } else { suppressWarnings(suppressMessages(x <- a$values(kpi.ID, year=year))) }
+                x <- a$values(kpi.ID)
+                } else { x <- a$values(kpi.ID, year=year) }
+                
         x <- prepare_map_data(x)
         x <- x[x$gender=='T',]
         head(x)
-        
         sweden_map <- x %>%
         	select(leaflet_long, leaflet_lat, knkod, kpi.id, municipality.id, knnamn, lnnamn) %>%
         	rename(long = leaflet_long, lat= leaflet_lat, region=knkod, subregion=knnamn) %>%
@@ -124,7 +121,7 @@ SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm
                 midPoint <- mean(x2[x2$period==year,]$value)
         }
         x3 <- unique(subset(x2,select=c(knkod,knnamn,tip,value,title)))            
-        gg <- ggplot(x3, aes(map_id=knkod, fill=value))+ 
+        gg <- ggplot(x3, aes(map_id=knkod, fill=value), environment = localenv )+ 
         	geom_map_interactive(data=x3, map=sweden_map, aes(fill=value, 
         		tooltip=tip, map_id=knkod, data_id=knkod), 
         		colour="black", size=0.05)+
@@ -143,15 +140,16 @@ SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm
         height <- ceiling(length(kpi.ID)/4)*5
        
        
-       if (outfile) { 
-               m <- ggiraph(code = {print(gg)},  hover_css = "fill:red;r:3pt;" , width_svg=width, height_svg=height)
-               saveWidget(m, file=paste0(name,'.html'),selfcontained=F)
-               pdf(paste0(name,'.pdf'),height=height,width=width)
-               gg
-               dev.off()
-               } else { ggiraph(code = {print(gg)},  hover_css = "fill:red;r:3pt;" , width_svg=width, height_svg=height )
-               gg
-       }
+
+        m <- ggiraph(code = {print(gg)},  hover_css = "fill:red;r:3pt;" , width_svg=width, height_svg=height)
+        saveWidget(m, file=paste0(name,'.html'),selfcontained=F)
+        
+        ggsave(paste0(name,'.pdf'),gg,height=height,width=width)
+        
+        
+        ggiraph(code = {print(gg)},  hover_css = "fill:red;r:3pt;" , width_svg=width, height_svg=height) 
+        gg
+       
         	
         
 

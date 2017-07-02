@@ -30,4 +30,13 @@ N00914	Förvärvsarbetande invånare 20-64 år, andel (%)
 SwedenMap(znorm=TRUE,gif=TRUE,year='2015',value=FALSE, name='Förvarsarbetande',kpiID='N00908,N00909,N00910,N00911,N00912,N00913,N00914')
 ```
 
+#### Results in three maps
+One PDF
+![](files/Forvarsarbetande.jpg)
+
+One Interactive html plot
+
+
+One gif
+![](files/Förvarsarbetande.gif)
 
