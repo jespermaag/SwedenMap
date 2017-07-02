@@ -38,5 +38,5 @@ One Interactive html plot
 
 
 One gif
-![](files/Förvarsarbetande.gif)
+![](files/Forvarsarbetande.gif)
 
