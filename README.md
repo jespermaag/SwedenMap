@@ -36,7 +36,7 @@ One PDF
 ![](files/Forvarsarbetande.jpg)
 
 One Interactive html plot
-https://jespermaag.github.io/SwedenMap.html
+https://jespermaag.github.io/SwedenMap_all.html
 
 
 One gif
