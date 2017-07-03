@@ -147,7 +147,7 @@ SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm
         ggsave(paste0(name,'.pdf'),gg,height=height,width=width)
         
         
-        ggiraph(code = {print(gg)},  hover_css = "fill:red;r:3pt;" , width_svg=width, height_svg=height) 
+        ggiraph(code = {print(gg)},  hover_css = "fill:red;r:3pt;", width_svg=width, height_svg=height)) 
         gg
        
         	
@@ -187,7 +187,7 @@ SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm
                 height <- ceiling(length(kpi.ID)/4)*300
                 
                 
-                gg_animate(gg,paste0(name,'.gif'),ani.height=height,ani.width=width)
+                gg_animate(gg,paste0(name,'.gif'),ani.height=height,ani.width=width
         }
         
 } 
