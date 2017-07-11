@@ -192,10 +192,3 @@ SwedenMap <- function(name=NULL,kpiID=NULL,year=2015,gif=FALSE,value=FALSE,znorm
         
 } 
 
-
-#' This codes merges dataset by knkod. Taken from https://github.com/reinholdsson/swemaps and https://github.com/reinholdsson/rkolada
-prepare_map_data <- function(x) {
-        x$knkod <- x$municipality.id
-        data <- merge(map_kn, x, by = 'knkod')
-        data[order(data$order),]  # make sure it's sorted by "order" column
-}
